@@ -1,0 +1,6 @@
+export const SHOW_ALERT = 'SHOW_ALERT'
+export const HIDE_ALERT = 'HIDE_ALERT'
+export const SHOW_LOADER = 'SHOW_LOADER'
+export const ADD_DOTO = 'ADD_DOTO'
+export const FETCH_DOTOS = 'FETCH_DOTOS'
+export const REMOVE_DOTO = 'REMOVE_DOTO'
